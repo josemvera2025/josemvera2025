@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me gusta trabajar en equipo <br>Controlo lenguajes de programacion como java, c, mysql, html, css, js xml<br>Me apasiona el desarrollo<br>
+Me gusta trabajar en equipo <br>Me apasiona el desarrollo<br>
 
 
 # 💻 Tech Stack:
